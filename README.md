@@ -9,3 +9,5 @@ For this prototype I wanted to make a shooting and searching for an item type of
 2. How can I make the game a bit harder or is it okay this way?
 3. Should the slimes be an obstacle to collect the flowers or it should be 2 different missions? 
 4. Comments and suggestions?
+
+# Feedback
