@@ -11,3 +11,5 @@ For this prototype I wanted to make a shooting and searching for an item type of
 4. Comments and suggestions?
 
 # Feedback
+
+I realized that the game is quite simple and I think the monsters should sort of attack you to add more challenge to the game. In a way I should make the slimes make it more difficult to collect the flowers. The whole ambience of the game is also a bit too bright. I also had to add clearer instructions. The scaling of the player should also be proportional to the environement.
